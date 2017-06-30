@@ -16,5 +16,6 @@ JS Methodology: ECMA6 standards
 
 # What does it require
 
+- This Template expect a phaser.min.js file in the External folder. This need to be donwloaded for free from the website.
 - This template includes just the JS of the game and it still require a server ( such as NodeJs, Php, etc..) to work.
 - This template require the user to have basic knowledge of Phaser.
